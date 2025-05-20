@@ -23,7 +23,7 @@
 
 If you have a custom field called `starting_price`, and you assign it a shortcode like:
 
-[price]
+`[price]`
 
 You can then use that shortcode anywhere on your WordPress site — pages, posts, or builders — and it will automatically output the ACF field value from your selected source page.
 
